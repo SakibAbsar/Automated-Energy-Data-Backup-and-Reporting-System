@@ -1,5 +1,4 @@
 # Automated-Energy-Data-Backup-and-Reporting-System
-# Automated Energy Data Backup and Reporting System
 
 This project automates the backup of energy data stored in an SQLite database and generates periodic reports. It uses Python, Docker, and GitLab CI/CD.
 
